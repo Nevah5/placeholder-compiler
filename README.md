@@ -11,5 +11,5 @@ $file_replacements = "input.txt";
 $output = "index.html";
 ```
 
-INPORTANT!
+IMPORTANT!
 You can only use one placeholder per line in the input file!
